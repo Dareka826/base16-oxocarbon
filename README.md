@@ -2,6 +2,8 @@
 
 Base16 dark themes based on [nyoom-engineering's base16-oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon).
 
+<img alt="Screenshot showing hex value colors" src="https://github.com/Dareka826/base16-oxocarbon/raw/refs/heads/main/scr.png">
+
 The dark version is optimized for base16-vim, while the dark-sh version is designed to match base16-shell standard colors better.
 
 ## Usage

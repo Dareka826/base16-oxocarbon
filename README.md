@@ -1,6 +1,6 @@
 # Base16 Oxocarbon
 
-Base16 dark themes based on [nyoom-engineering's base16-oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon).
+Base16 dark themes based on [nyoom-engineering's oxocarbon](https://github.com/nyoom-engineering/oxocarbon.nvim).
 
 <img alt="Screenshot showing hex value colors" src="https://github.com/Dareka826/base16-oxocarbon/raw/refs/heads/main/scr.png">
 
